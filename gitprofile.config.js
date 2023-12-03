@@ -34,34 +34,28 @@ const config = {
   },
   skills: [
     'PHP',
-    'Laravel',
-    'JavaScript',
-    'React.js',
-    'Node.js',
-    'Nest.js',
     'MySQL',
-    'PostgreSQL',
     'Git',
-    'Docker',
-    'PHPUnit',
+    'C#',
     'CSS',
-    'Antd',
-    'Tailwind',
+    'Canva',
+    'Squarespace',
+    
   ],
   experiences: [
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'September 2021',
+      company: 'The Night Market Company',
+      position: 'Manager',
+      from: 'December 2020',
       to: 'Present',
-      companyLink: 'https://example.com',
+      companyLink: 'https://thenightmarketcompany.com',
     },
     {
-      company: 'Company Name',
-      position: 'Position',
+      company: 'Rex Hospitality',
+      position: 'Wedding Cordinator',
       from: 'July 2019',
-      to: 'August 2021',
-      companyLink: 'https://example.com',
+      to: 'Present',
+      companyLink: 'https://bettergreenvillecatering.com',
     },
   ],
   /* certifications: [
@@ -74,27 +68,27 @@ const config = {
   ], */
   education: [
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2015',
-      to: '2019',
+      institution: 'East Carolina University',
+      degree: 'B.S.B.A in Management of Information Systems',
+      from: '2022',
+      to: '2024',
     },
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2012',
-      to: '2014',
+      institution: 'Pitt Community College',
+      degree: 'Associate of Science',
+      from: '2020',
+      to: '2022',
     },
   ],
 
   // To hide the `My Projects` section, keep it empty.
   externalProjects: [
     {
-      title: 'Project Name',
+      title: 'Website Creation',
       description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+        'Created The Night Market Company's Website',
       imageUrl: 'https://via.placeholder.com/250x250',
-      link: 'https://example.com',
+      link: 'https://thenightmarketcompany.com',
     },
     {
       title: 'Project Name',
