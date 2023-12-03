@@ -30,7 +30,7 @@ const config = {
   },
   resume: {
     fileUrl:
-      'https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf', // Empty fileUrl will hide the `Download Resume` button.
+      'https://studentsecuedu66932-my.sharepoint.com/:b:/r/personal/wenzelk22_students_ecu_edu/Documents/Resume.pdf?csf=1&web=1&e=AZbrDc', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'PHP',
